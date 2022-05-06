@@ -1,0 +1,6 @@
+name: MobcoinsAddons
+version: '1.0-SNAPSHOT'
+main: com.cayeoficial.Main
+api-version: 1.16
+authors: [ CayeOficial ]
+description: Plugin privado de HorusMC
